@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+div {
+  margin: 0 auto;
+  width: 100%;
+  max-width: 600px;
+  text-align: left;
+  font-size: 16px;
+  line-height: 1.5;
+  padding: 25px;
+}
